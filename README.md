@@ -1,4 +1,4 @@
-### AI POWERED RESUME RANKING SYSTEM: 
+### AI POWERED RESUME SEARCH AND RANKING SYSTEM: 
 
 An end-to-end semantic resume search and ranking system that matches resumes to hiring queries using vector search, cross-encoder reranking, and optional LLM summarization.
 
